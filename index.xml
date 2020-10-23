@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Friend NG</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Hello Friend NG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 24 Sep 2020 23:53:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 17 Jun 2019 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>PROFILE
+I’m a capable Technical Director who can act as the glue that links together mission critical security requirements. Articulate and effective communicator who has a history of developing products that push the limits of technology. Able to respond to the ever changing demands of clients by creating innovative high quality and defect-free security solutions that precisely meet their business needs. Strong management and methodical aptitude with an innate ability in decision-making, coordinating and synthesizing data.</description>
+    </item>
+    
+    <item>
+      <title>Do you need an online presence?</title>
+      <link>https://example.com/posts/2020/09/do-you-need-an-online-presence/</link>
+      <pubDate>Thu, 24 Sep 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2020/09/do-you-need-an-online-presence/</guid>
+      <description>Do you need an online presence?</description>
+    </item>
+    
+    <item>
+      <title>Do you need online presence?</title>
+      <link>https://example.com/posts/2020/09/do-you-need-online-presence/</link>
+      <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2020/09/do-you-need-online-presence/</guid>
+      <description>Do you need online presence?</description>
+    </item>
+    
+    <item>
+      <title>Career advice for aspiring ethical hackers, pentesters and application testers</title>
+      <link>https://example.com/posts/2020/09/career-advice-for-aspiring-ethical-hackers-pentesters-and-application-testers/</link>
+      <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2020/09/career-advice-for-aspiring-ethical-hackers-pentesters-and-application-testers/</guid>
+      <description>Career advice for aspiring ethical hackers, pentesters and application testers</description>
+    </item>
+    
+    <item>
+      <title>Cloud Security Threats</title>
+      <link>https://example.com/posts/2020/07/cloud-security-threats/</link>
+      <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2020/07/cloud-security-threats/</guid>
+      <description>Cloud Security Threats</description>
+    </item>
+    
+    <item>
+      <title>Web Application Pentest Training</title>
+      <link>https://example.com/posts/2020/07/web-application-pentest-training/</link>
+      <pubDate>Sun, 19 Jul 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2020/07/web-application-pentest-training/</guid>
+      <description>Web Application Pentest</description>
+    </item>
+    
+    <item>
+      <title>Pentest Interview Preparation Sample Questions</title>
+      <link>https://example.com/posts/2020/07/pentest-interview-preparation-sample-questions/</link>
+      <pubDate>Sat, 18 Jul 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2020/07/pentest-interview-preparation-sample-questions/</guid>
+      <description>Pentest interview questions</description>
+    </item>
+    
+    <item>
+      <title>RedTeam</title>
+      <link>https://example.com/posts/2020/07/redteam/</link>
+      <pubDate>Fri, 17 Jul 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2020/07/redteam/</guid>
+      <description>redteam</description>
+    </item>
+    
+    <item>
+      <title>CRYPTOSYSTEM LIBRARY FOR WEB APPLICATIONS</title>
+      <link>https://example.com/posts/2015/08/cryptosystem-library-for-web-applications/</link>
+      <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2015/08/cryptosystem-library-for-web-applications/</guid>
+      <description>Cryptosystem Web Applications</description>
+    </item>
+    
+    <item>
+      <title>APPLICATION INTEGRATION TECHNIQUES</title>
+      <link>https://example.com/posts/2015/07/application-integration-techniques/</link>
+      <pubDate>Fri, 17 Jul 2015 23:53:00 +0100</pubDate>
+      
+      <guid>https://example.com/posts/2015/07/application-integration-techniques/</guid>
+      <description>Application Integrations with APIs</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2019-06-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2019-06-04T21:55:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2020/09/do-you-need-an-online-presence/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/online-presence/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/website/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/writing/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/blog/</loc>
+    <lastmod>2020-09-23T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2020/09/do-you-need-online-presence/</loc>
+    <lastmod>2020-09-23T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/career-advice/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2020/09/career-advice-for-aspiring-ethical-hackers-pentesters-and-application-testers/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/pentest/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/redteam/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/cloud-security/</loc>
+    <lastmod>2020-07-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2020/07/cloud-security-threats/</loc>
+    <lastmod>2020-07-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2020/07/web-application-pentest-training/</loc>
+    <lastmod>2020-07-19T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2020/07/pentest-interview-preparation-sample-questions/</loc>
+    <lastmod>2020-07-18T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2020/07/redteam/</loc>
+    <lastmod>2020-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/application-integration/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/authentication/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/confidentiality/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/cryptography/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2015/08/cryptosystem-library-for-web-applications/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/integrity/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/rest/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2015/07/application-integration-techniques/</loc>
+    <lastmod>2015-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/soap/</loc>
+    <lastmod>2015-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/nessus/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/vulnerability/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2013/07/vulnerability-database-for-common-security-issues/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/vulnerability-management/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/series/"
+                />
+  </url>
+  
+</urlset>
