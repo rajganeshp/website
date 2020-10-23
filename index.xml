@@ -6,7 +6,7 @@
     <description>Recent content on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2020 23:53:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 23:53:00 +0100</lastBuildDate>
     
 	<atom:link href="https://connectthoughts.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,15 @@ I’m a capable Technical Director who can act as the glue that links together m
       <guid>https://connectthoughts.com/course/</guid>
       <description>Active Directory Course This course shows how to create Active Directory lab in Hyper-V. Though the course is dated, the same principles can be applied to 2019/2016 servers. Download the manual at https://www.scribd.com/document/359316928/Active-Directory-Lab-HyperV-Manual
 Active Directory Lab using Hyper-V Virtualization Platform Training   Adding Hyper-V Role in Windows 10 - Host System   Setting up Virtual Switches in Hyper-V   Installing Windows 2012 Server   Installing Windows 10–64 bit version   Installing Windows 7   File Server Installation – Windows 2012   Installing Router/Firewall using PFSense Opensource Software   Configuring PFSense Router for networking   Promoting Windows 2012 Server to a Domain Controller   Setting Up Static IP in Domain Controller   Add DHCP Role to Domain Controller   Creating a scope in DHCP server to hand out IPs to clients   Joining Windows 7 to Domain   Joining Windows 10 to Domain   Adding FileServer to Domain   Exporting, Saving, and creating Checkpoints for all VMs   Protect you host computer using PFSense   GPO - Example 1: Set Wallpaper on all systems in the domain.</description>
+    </item>
+    
+    <item>
+      <title>How to plan for cloud security in any organization?</title>
+      <link>https://connectthoughts.com/blog/cloudwhattodo/</link>
+      <pubDate>Wed, 21 Oct 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://connectthoughts.com/blog/cloudwhattodo/</guid>
+      <description>How to plan for cloud security in any organization? Due to various services and flexibility offered by cloud services, businesses were able to expand rapidly and increase revenue by providing innovative solution to customers. But there are some challenges such as disaster recovery, migrating data to another cloud, and security, which need to be addressed for better cloud compliance in business organizations. There are many security threats in the cloud, such as misconfiguration of cloud services, compliance violation, contractural breaches, and insecure application user API, which can affect the businesses.</description>
     </item>
     
     <item>
