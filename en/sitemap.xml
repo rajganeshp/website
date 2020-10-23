@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://www.connectthoughts.com/posts/2020/09/do-you-need-an-online-presence/</loc>
-    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.connectthoughts.com/</loc>
     <lastmod>2020-09-24T23:53:00+01:00</lastmod>
     <xhtml:link
@@ -30,6 +25,11 @@
                 hreflang="en"
                 href="https://www.connectthoughts.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/2020/09/do-you-need-an-online-presence/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
   </url>
   
   <url>
