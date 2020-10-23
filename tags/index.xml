@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 16:19:06 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 23:53:00 +0100</lastBuildDate>
     
 	<atom:link href="https://connectthoughts.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>markdown</title>
-      <link>https://connectthoughts.com/tags/markdown/</link>
-      <pubDate>Mon, 28 Sep 2020 16:19:06 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/tags/markdown/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>blog</title>
@@ -71,51 +62,6 @@
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
       <guid>https://connectthoughts.com/tags/redteam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://connectthoughts.com/tags/css/</link>
-      <pubDate>Sat, 15 Aug 2020 13:22:10 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>javascript</title>
-      <link>https://connectthoughts.com/tags/javascript/</link>
-      <pubDate>Fri, 14 Aug 2020 13:30:29 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theme</title>
-      <link>https://connectthoughts.com/tags/theme/</link>
-      <pubDate>Fri, 14 Aug 2020 13:30:29 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://connectthoughts.com/tags/html/</link>
-      <pubDate>Thu, 13 Aug 2020 23:03:58 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://connectthoughts.com/tags/themes/</link>
-      <pubDate>Thu, 13 Aug 2020 23:03:58 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/tags/themes/</guid>
       <description></description>
     </item>
     
