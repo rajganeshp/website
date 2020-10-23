@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cloud security on ConnectThoughts</title>
-    <link>https://www.connectthoughts.com/tags/cloud-security/</link>
-    <description>Recent content in cloud security on ConnectThoughts</description>
+    <title>cloud security on Connecting Thoughts</title>
+    <link>https://connectthoughts.com/tags/cloud-security/</link>
+    <description>Recent content in cloud security on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jul 2020 23:53:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.connectthoughts.com/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://connectthoughts.com/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cloud Security Threats</title>
-      <link>https://www.connectthoughts.com/blog/cloudsecuritythreats/</link>
+      <link>https://connectthoughts.com/blog/cloudsecuritythreats/</link>
       <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/cloudsecuritythreats/</guid>
+      <guid>https://connectthoughts.com/blog/cloudsecuritythreats/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Security Threats</title>
-      <link>https://www.connectthoughts.com/posts/cloudsecuritythreats/</link>
-      <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/cloudsecuritythreats/</guid>
-      <description>Cloud Security Threats</description>
     </item>
     
   </channel>

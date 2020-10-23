@@ -1,123 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ConnectThoughts</title>
-    <link>https://www.connectthoughts.com/</link>
-    <description>Recent content on ConnectThoughts</description>
+    <title>Connecting Thoughts</title>
+    <link>https://connectthoughts.com/</link>
+    <description>Recent content on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2020 23:53:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 16:19:06 +0530</lastBuildDate>
     
-	<atom:link href="https://www.connectthoughts.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://connectthoughts.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://www.connectthoughts.com/about/</link>
+      <link>https://connectthoughts.com/about/</link>
       <pubDate>Mon, 17 Jun 2019 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/about/</guid>
+      <guid>https://connectthoughts.com/about/</guid>
       <description>PROFILE
 I’m a capable Technical Director who can act as the glue that links together mission critical security requirements. Articulate and effective communicator who has a history of developing products that push the limits of technology. Able to respond to the ever changing demands of clients by creating innovative high quality and defect-free security solutions that precisely meet their business needs. Strong management and methodical aptitude with an innate ability in decision-making, coordinating and synthesizing data.</description>
     </item>
     
     <item>
-      <title>Do you need an online presence?</title>
-      <link>https://www.connectthoughts.com/posts/onlinepresence/</link>
-      <pubDate>Thu, 24 Sep 2020 23:53:00 +0100</pubDate>
+      <title>Courses</title>
+      <link>https://connectthoughts.com/course/</link>
+      <pubDate>Mon, 17 Jun 2019 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/posts/onlinepresence/</guid>
-      <description>Do you need an online presence?</description>
+      <guid>https://connectthoughts.com/course/</guid>
+      <description>Active Directory Course This course shows how to create Active Directory lab in Hyper-V. Though the course is dated, the same principles can be applied to 2019/2016 servers. Download the manual at https://www.scribd.com/document/359316928/Active-Directory-Lab-HyperV-Manual
+Active Directory Lab using Hyper-V Virtualization Platform Training   Adding Hyper-V Role in Windows 10 - Host System   Setting up Virtual Switches in Hyper-V   Installing Windows 2012 Server   Installing Windows 10–64 bit version   Installing Windows 7   File Server Installation – Windows 2012   Installing Router/Firewall using PFSense Opensource Software   Configuring PFSense Router for networking   Promoting Windows 2012 Server to a Domain Controller   Setting Up Static IP in Domain Controller   Add DHCP Role to Domain Controller   Creating a scope in DHCP server to hand out IPs to clients   Joining Windows 7 to Domain   Joining Windows 10 to Domain   Adding FileServer to Domain   Exporting, Saving, and creating Checkpoints for all VMs   Protect you host computer using PFSense   GPO - Example 1: Set Wallpaper on all systems in the domain.</description>
+    </item>
+    
+    <item>
+      <title>Markdown syntax</title>
+      <link>https://connectthoughts.com/blog/markdown_3/</link>
+      <pubDate>Mon, 28 Sep 2020 16:19:06 +0530</pubDate>
+      
+      <guid>https://connectthoughts.com/blog/markdown_3/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Do you need online presence?</title>
-      <link>https://www.connectthoughts.com/blog/online/</link>
+      <link>https://connectthoughts.com/blog/online/</link>
       <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/online/</guid>
+      <guid>https://connectthoughts.com/blog/online/</guid>
       <description>Online presence is key, especially now, to showcase your skills and express your thoughts and ideas inS form of blogs or articles. Having your own personal website gives you credibility when someone is searching for your name. In this post, I’m going to discuss the benefits of writing on your own website. Writing is one of the easiest ways to get started, as you need only time with no expensive tools.</description>
     </item>
     
     <item>
-      <title>Do you need online presence?</title>
-      <link>https://www.connectthoughts.com/posts/online/</link>
-      <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/online/</guid>
-      <description>Do you need online presence?</description>
-    </item>
-    
-    <item>
       <title>Career advice for aspiring ethical hackers, pentesters and application testers</title>
-      <link>https://www.connectthoughts.com/blog/careeradvice/</link>
+      <link>https://connectthoughts.com/blog/careeradvice/</link>
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/careeradvice/</guid>
+      <guid>https://connectthoughts.com/blog/careeradvice/</guid>
       <description>Coming from a pentesting background and having led many Red Team engagements for over 15 years, I’m noticing changing industry trends with respect to vulnerability, red teaming, and other technical assessments.
 Until recently, there was a huge demand for technical assessments as organizations were required to test and validate security issues by third-party vendors, as mandated by compliance requirements by PCI, HIPAA, and Sarbanes–Oxley This trend will still continue but not as much as it used to be.</description>
     </item>
     
     <item>
-      <title>Career advice for aspiring ethical hackers, pentesters and application testers</title>
-      <link>https://www.connectthoughts.com/posts/careeradvice/</link>
-      <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
+      <title>Markdown syntax</title>
+      <link>https://connectthoughts.com/blog/markdown_1/</link>
+      <pubDate>Sat, 15 Aug 2020 13:22:10 +0530</pubDate>
       
-      <guid>https://www.connectthoughts.com/posts/careeradvice/</guid>
-      <description>Career advice for aspiring ethical hackers, pentesters and application testers</description>
+      <guid>https://connectthoughts.com/blog/markdown_1/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Recipe App Ux Study</title>
-      <link>https://www.connectthoughts.com/portfolio/recipe-app-ux-study/</link>
-      <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
+      <title>Markdown syntax</title>
+      <link>https://connectthoughts.com/blog/markdown_2/</link>
+      <pubDate>Fri, 14 Aug 2020 13:30:29 +0530</pubDate>
       
-      <guid>https://www.connectthoughts.com/portfolio/recipe-app-ux-study/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>https://connectthoughts.com/blog/markdown_2/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>UX Case Study for Agriculture App</title>
-      <link>https://www.connectthoughts.com/portfolio/ux-case-study-for-agriculture-app/</link>
-      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      <title>Markdown syntax</title>
+      <link>https://connectthoughts.com/blog/markdown/</link>
+      <pubDate>Thu, 13 Aug 2020 23:03:58 +0530</pubDate>
       
-      <guid>https://www.connectthoughts.com/portfolio/ux-case-study-for-agriculture-app/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Event App Case Study</title>
-      <link>https://www.connectthoughts.com/portfolio/event-app-case-study/</link>
-      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
-      
-      <guid>https://www.connectthoughts.com/portfolio/event-app-case-study/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>https://connectthoughts.com/blog/markdown/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cloud Security Threats</title>
-      <link>https://www.connectthoughts.com/blog/cloudsecuritythreats/</link>
+      <link>https://connectthoughts.com/blog/cloudsecuritythreats/</link>
       <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/cloudsecuritythreats/</guid>
+      <guid>https://connectthoughts.com/blog/cloudsecuritythreats/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cloud Security Threats</title>
-      <link>https://www.connectthoughts.com/posts/cloudsecuritythreats/</link>
-      <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/cloudsecuritythreats/</guid>
-      <description>Cloud Security Threats</description>
-    </item>
-    
-    <item>
       <title>Web Application Pentest Training</title>
-      <link>https://www.connectthoughts.com/blog/webpentest/</link>
+      <link>https://connectthoughts.com/blog/webpentest/</link>
       <pubDate>Sun, 19 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/webpentest/</guid>
+      <guid>https://connectthoughts.com/blog/webpentest/</guid>
       <description>Web Application Hacking - Training
 This project is not maintained or supported now, but it should still work with the ISO and instructions give below.
 Download the ISO.
@@ -129,20 +112,11 @@ https://www.dropbox.com/s/r46m0eh6fv3k4v8/Web%20Hacking.pdf?dl=0</description>
     </item>
     
     <item>
-      <title>Web Application Pentest Training</title>
-      <link>https://www.connectthoughts.com/posts/webpentest/</link>
-      <pubDate>Sun, 19 Jul 2020 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/webpentest/</guid>
-      <description>Web Application Pentest</description>
-    </item>
-    
-    <item>
       <title>Pentest Interview Preparation Sample Questions</title>
-      <link>https://www.connectthoughts.com/blog/pentest-interview/</link>
+      <link>https://connectthoughts.com/blog/pentest-interview/</link>
       <pubDate>Sat, 18 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/pentest-interview/</guid>
+      <guid>https://connectthoughts.com/blog/pentest-interview/</guid>
       <description>Questions below showcases fictional use cases. Please use you own experience and stories while preparing for an interview.
 Why you chose to get into Pen Testing
 As an individual, I like to constantly learn new things. With penetration testing, I have always liked the idea of playing a vital role in identifying potential breakpoints across the applications and infrastructure and explore new ways to secure the environment.
@@ -150,107 +124,44 @@ As the ecosystem is dynamic, and new technologies have been emerging, it helps m
     </item>
     
     <item>
-      <title>Pentest Interview Preparation Sample Questions</title>
-      <link>https://www.connectthoughts.com/posts/pentest-interview/</link>
-      <pubDate>Sat, 18 Jul 2020 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/pentest-interview/</guid>
-      <description>Pentest interview questions</description>
-    </item>
-    
-    <item>
       <title>RedTeam</title>
-      <link>https://www.connectthoughts.com/blog/redteam/</link>
+      <link>https://connectthoughts.com/blog/redteam/</link>
       <pubDate>Fri, 17 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/redteam/</guid>
+      <guid>https://connectthoughts.com/blog/redteam/</guid>
       <description>Understanding Red Team Assessments Red Team Objectives The key objective of the exercise would be to simulate real threats designed to leverage weaknesses in people, process and technology to compromise the target environment. This would typically include the following areas:
  Intelligence gathering and reconnaissance Social engineering, including phishing techniques, use of safe malware infected IOT devices, and physical penetration testing Wireless and network penetration testing of internal and external systems Enterprise application assessments to determine whether weaknesses in applications may provide opportunities to gain unauthorized access to information and / or resources  The ongoing information security breaches at companies worldwide have shown that once perimeter defenses are breached, the company’s crown jewels can be obtained.</description>
     </item>
     
     <item>
-      <title>RedTeam</title>
-      <link>https://www.connectthoughts.com/posts/redteam/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/redteam/</guid>
-      <description>redteam</description>
-    </item>
-    
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>https://www.connectthoughts.com/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://www.connectthoughts.com/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Case Study One</title>
-      <link>https://www.connectthoughts.com/portfolio/case-study-one/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://www.connectthoughts.com/portfolio/case-study-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
       <title>CRYPTOSYSTEM LIBRARY FOR WEB APPLICATIONS</title>
-      <link>https://www.connectthoughts.com/blog/cryptoweb/</link>
+      <link>https://connectthoughts.com/blog/cryptoweb/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/cryptoweb/</guid>
+      <guid>https://connectthoughts.com/blog/cryptoweb/</guid>
       <description>This document discusses the approach or methodology for the cryptosystem library that could be utilised by web applications, web services, REST based web service, file transfer for encryption and decryption. This proposed cryptosystem offers the following built-in features:
 · Authentication – Using this cryptosystem, the identity of the remote system or application can be established. For example, SSL certificate of a web server providing proof of the identity of the remote system.</description>
     </item>
     
     <item>
-      <title>CRYPTOSYSTEM LIBRARY FOR WEB APPLICATIONS</title>
-      <link>https://www.connectthoughts.com/posts/cryptoweb/</link>
-      <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/cryptoweb/</guid>
-      <description>Cryptosystem Web Applications</description>
-    </item>
-    
-    <item>
       <title>APPLICATION INTEGRATION TECHNIQUES</title>
-      <link>https://www.connectthoughts.com/blog/applicationintegration/</link>
+      <link>https://connectthoughts.com/blog/applicationintegration/</link>
       <pubDate>Fri, 17 Jul 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/applicationintegration/</guid>
+      <guid>https://connectthoughts.com/blog/applicationintegration/</guid>
       <description>This document discusses each of the application integration methods commonly used these days for B2B integrations. The concepts discussed below focuses on API security from the perspective of confidentiality, integrity, authentication and replay attacks.
 - Technology overview – This section provides the background, overview and advantages of each of the existing technology.
 - Confidentiality - Ensuring the confidentiality of access credentials, authentication credentials, and tokens used for authorization is highly important.</description>
     </item>
     
     <item>
-      <title>APPLICATION INTEGRATION TECHNIQUES</title>
-      <link>https://www.connectthoughts.com/posts/applicationintegration/</link>
-      <pubDate>Fri, 17 Jul 2015 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/applicationintegration/</guid>
-      <description>Application Integrations with APIs</description>
-    </item>
-    
-    <item>
       <title>Vulnerability Database for common security issues</title>
-      <link>https://www.connectthoughts.com/blog/vulnerability/</link>
+      <link>https://connectthoughts.com/blog/vulnerability/</link>
       <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/blog/vulnerability/</guid>
+      <guid>https://connectthoughts.com/blog/vulnerability/</guid>
       <description>Following are my notes on common security issues that were identified based vulnerability scanning or penetration testing
 OS Command Injection Description: An OS command injection attack occurs when an attacker attempts to execute system level commands through a vulnerable application. Application uses system level commands to do some functionality. In this, web interface is used to execute OS command on a web server. Any web interface that is not properly sanitized is subject to this exploit.</description>
-    </item>
-    
-    <item>
-      <title>Vulnerability Database for common security issues</title>
-      <link>https://www.connectthoughts.com/posts/vulnerability/</link>
-      <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
-      
-      <guid>https://www.connectthoughts.com/posts/vulnerability/</guid>
-      <description>Security Issues</description>
     </item>
     
   </channel>
