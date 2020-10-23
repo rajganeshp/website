@@ -51,15 +51,6 @@ Until recently, there was a huge demand for technical assessments as organizatio
     </item>
     
     <item>
-      <title>Markdown syntax</title>
-      <link>https://connectthoughts.com/blog/markdown_2/</link>
-      <pubDate>Fri, 14 Aug 2020 13:30:29 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/blog/markdown_2/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Cloud Security Threats</title>
       <link>https://connectthoughts.com/blog/cloudsecuritythreats/</link>
       <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>

@@ -20,14 +20,5 @@
       <description>Online presence is key, especially now, to showcase your skills and express your thoughts and ideas inS form of blogs or articles. Having your own personal website gives you credibility when someone is searching for your name. In this post, I’m going to discuss the benefits of writing on your own website. Writing is one of the easiest ways to get started, as you need only time with no expensive tools.</description>
     </item>
     
-    <item>
-      <title>Markdown syntax</title>
-      <link>https://connectthoughts.com/blog/markdown_2/</link>
-      <pubDate>Fri, 14 Aug 2020 13:30:29 +0530</pubDate>
-      
-      <guid>https://connectthoughts.com/blog/markdown_2/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
