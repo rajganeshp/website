@@ -3,210 +3,210 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://www.connectthoughts.com/about/</loc>
     <lastmod>2019-06-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://www.connectthoughts.com/posts/</loc>
     <lastmod>2019-06-04T21:55:06+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2020/09/do-you-need-an-online-presence/</loc>
+    <loc>https://www.connectthoughts.com/posts/2020/09/do-you-need-an-online-presence/</loc>
     <lastmod>2020-09-24T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/online-presence/</loc>
-    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://www.connectthoughts.com/</loc>
     <lastmod>2020-09-24T23:53:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://www.connectthoughts.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://www.connectthoughts.com/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/website/</loc>
+    <loc>https://www.connectthoughts.com/tags/online-presence/</loc>
     <lastmod>2020-09-24T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/writing/</loc>
+    <loc>https://www.connectthoughts.com/tags/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.connectthoughts.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.connectthoughts.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/website/</loc>
     <lastmod>2020-09-24T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/blog/</loc>
+    <loc>https://www.connectthoughts.com/tags/writing/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/blog/</loc>
     <lastmod>2020-09-23T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2020/09/do-you-need-online-presence/</loc>
+    <loc>https://www.connectthoughts.com/posts/2020/09/do-you-need-online-presence/</loc>
     <lastmod>2020-09-23T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/career-advice/</loc>
+    <loc>https://www.connectthoughts.com/tags/career-advice/</loc>
     <lastmod>2020-09-20T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2020/09/career-advice-for-aspiring-ethical-hackers-pentesters-and-application-testers/</loc>
+    <loc>https://www.connectthoughts.com/posts/2020/09/career-advice-for-aspiring-ethical-hackers-pentesters-and-application-testers/</loc>
     <lastmod>2020-09-20T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/pentest/</loc>
+    <loc>https://www.connectthoughts.com/tags/pentest/</loc>
     <lastmod>2020-09-20T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/redteam/</loc>
+    <loc>https://www.connectthoughts.com/tags/redteam/</loc>
     <lastmod>2020-09-20T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/cloud-security/</loc>
+    <loc>https://www.connectthoughts.com/tags/cloud-security/</loc>
     <lastmod>2020-07-20T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2020/07/cloud-security-threats/</loc>
+    <loc>https://www.connectthoughts.com/posts/2020/07/cloud-security-threats/</loc>
     <lastmod>2020-07-20T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2020/07/web-application-pentest-training/</loc>
+    <loc>https://www.connectthoughts.com/posts/2020/07/web-application-pentest-training/</loc>
     <lastmod>2020-07-19T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2020/07/pentest-interview-preparation-sample-questions/</loc>
+    <loc>https://www.connectthoughts.com/posts/2020/07/pentest-interview-preparation-sample-questions/</loc>
     <lastmod>2020-07-18T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2020/07/redteam/</loc>
+    <loc>https://www.connectthoughts.com/posts/2020/07/redteam/</loc>
     <lastmod>2020-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/application-integration/</loc>
+    <loc>https://www.connectthoughts.com/tags/application-integration/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/authentication/</loc>
+    <loc>https://www.connectthoughts.com/tags/authentication/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/confidentiality/</loc>
+    <loc>https://www.connectthoughts.com/tags/confidentiality/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/cryptography/</loc>
+    <loc>https://www.connectthoughts.com/tags/cryptography/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2015/08/cryptosystem-library-for-web-applications/</loc>
+    <loc>https://www.connectthoughts.com/posts/2015/08/cryptosystem-library-for-web-applications/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/integrity/</loc>
+    <loc>https://www.connectthoughts.com/tags/integrity/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/rest/</loc>
+    <loc>https://www.connectthoughts.com/tags/rest/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2015/07/application-integration-techniques/</loc>
+    <loc>https://www.connectthoughts.com/posts/2015/07/application-integration-techniques/</loc>
     <lastmod>2015-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/soap/</loc>
+    <loc>https://www.connectthoughts.com/tags/soap/</loc>
     <lastmod>2015-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/nessus/</loc>
+    <loc>https://www.connectthoughts.com/tags/nessus/</loc>
     <lastmod>2013-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/vulnerability/</loc>
+    <loc>https://www.connectthoughts.com/tags/vulnerability/</loc>
     <lastmod>2013-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2013/07/vulnerability-database-for-common-security-issues/</loc>
+    <loc>https://www.connectthoughts.com/posts/2013/07/vulnerability-database-for-common-security-issues/</loc>
     <lastmod>2013-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/vulnerability-management/</loc>
+    <loc>https://www.connectthoughts.com/tags/vulnerability-management/</loc>
     <lastmod>2013-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://www.connectthoughts.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://www.connectthoughts.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://www.connectthoughts.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://www.connectthoughts.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://www.connectthoughts.com/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://www.connectthoughts.com/series/"
                 />
   </url>
   
