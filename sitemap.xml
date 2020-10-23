@@ -1,16 +1,253 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://www.connectthoughts.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-09-24T23:53:00+01:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://www.connectthoughts.com/fr/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.connectthoughts.com/about/</loc>
+    <lastmod>2019-06-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/</loc>
+    <lastmod>2019-06-04T21:55:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/onlinepresence/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/online-presence/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/website/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/writing/</loc>
+    <lastmod>2020-09-24T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/blog/</loc>
+    <lastmod>2020-09-23T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/online/</loc>
+    <lastmod>2020-09-23T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/online/</loc>
+    <lastmod>2020-09-23T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/</loc>
+    <lastmod>2020-09-23T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/career-advice/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/careeradvice/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/careeradvice/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/pentest/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/redteam/</loc>
+    <lastmod>2020-09-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/portfolio/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/portfolio/recipe-app-ux-study/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/portfolio/ux-case-study-for-agriculture-app/</loc>
+    <lastmod>2020-08-12T12:13:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/portfolio/event-app-case-study/</loc>
+    <lastmod>2020-08-12T18:07:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/cloud-security/</loc>
+    <lastmod>2020-07-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/cloudsecuritythreats/</loc>
+    <lastmod>2020-07-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/cloudsecuritythreats/</loc>
+    <lastmod>2020-07-20T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/webpentest/</loc>
+    <lastmod>2020-07-19T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/webpentest/</loc>
+    <lastmod>2020-07-19T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/pentest-interview/</loc>
+    <lastmod>2020-07-18T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/pentest-interview/</loc>
+    <lastmod>2020-07-18T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/redteam/</loc>
+    <lastmod>2020-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/redteam/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/portfolio/case-study-one/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/application-integration/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/authentication/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/confidentiality/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/cryptography/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/cryptoweb/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/cryptoweb/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/integrity/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/rest/</loc>
+    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/applicationintegration/</loc>
+    <lastmod>2015-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/applicationintegration/</loc>
+    <lastmod>2015-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/soap/</loc>
+    <lastmod>2015-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/nessus/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/vulnerability/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/blog/vulnerability/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/posts/vulnerability/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/tags/vulnerability-management/</loc>
+    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.connectthoughts.com/contact/</loc>
+  </url>
+  
+</urlset>

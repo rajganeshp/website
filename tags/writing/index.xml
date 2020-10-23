@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>writing on Connect your thoughts</title>
+    <title>writing on ConnectThoughts</title>
     <link>https://www.connectthoughts.com/tags/writing/</link>
-    <description>Recent content in writing on Connect your thoughts</description>
+    <description>Recent content in writing on ConnectThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 24 Sep 2020 23:53:00 +0100</lastBuildDate>
     
 	<atom:link href="https://www.connectthoughts.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
@@ -14,19 +13,28 @@
     
     <item>
       <title>Do you need an online presence?</title>
-      <link>https://www.connectthoughts.com/posts/2020/09/do-you-need-an-online-presence/</link>
+      <link>https://www.connectthoughts.com/posts/onlinepresence/</link>
       <pubDate>Thu, 24 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/posts/2020/09/do-you-need-an-online-presence/</guid>
+      <guid>https://www.connectthoughts.com/posts/onlinepresence/</guid>
       <description>Do you need an online presence?</description>
     </item>
     
     <item>
       <title>Do you need online presence?</title>
-      <link>https://www.connectthoughts.com/posts/2020/09/do-you-need-online-presence/</link>
+      <link>https://www.connectthoughts.com/blog/online/</link>
       <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/posts/2020/09/do-you-need-online-presence/</guid>
+      <guid>https://www.connectthoughts.com/blog/online/</guid>
+      <description>Online presence is key, especially now, to showcase your skills and express your thoughts and ideas inS form of blogs or articles. Having your own personal website gives you credibility when someone is searching for your name. In this post, I’m going to discuss the benefits of writing on your own website. Writing is one of the easiest ways to get started, as you need only time with no expensive tools.</description>
+    </item>
+    
+    <item>
+      <title>Do you need online presence?</title>
+      <link>https://www.connectthoughts.com/posts/online/</link>
+      <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://www.connectthoughts.com/posts/online/</guid>
       <description>Do you need online presence?</description>
     </item>
     

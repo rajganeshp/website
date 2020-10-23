@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>career advice on Connect your thoughts</title>
+    <title>career advice on ConnectThoughts</title>
     <link>https://www.connectthoughts.com/tags/career-advice/</link>
-    <description>Recent content in career advice on Connect your thoughts</description>
+    <description>Recent content in career advice on ConnectThoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 20 Sep 2020 23:53:00 +0100</lastBuildDate>
     
 	<atom:link href="https://www.connectthoughts.com/tags/career-advice/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,20 @@
     
     <item>
       <title>Career advice for aspiring ethical hackers, pentesters and application testers</title>
-      <link>https://www.connectthoughts.com/posts/2020/09/career-advice-for-aspiring-ethical-hackers-pentesters-and-application-testers/</link>
+      <link>https://www.connectthoughts.com/blog/careeradvice/</link>
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://www.connectthoughts.com/posts/2020/09/career-advice-for-aspiring-ethical-hackers-pentesters-and-application-testers/</guid>
+      <guid>https://www.connectthoughts.com/blog/careeradvice/</guid>
+      <description>Coming from a pentesting background and having led many Red Team engagements for over 15 years, I’m noticing changing industry trends with respect to vulnerability, red teaming, and other technical assessments.
+Until recently, there was a huge demand for technical assessments as organizations were required to test and validate security issues by third-party vendors, as mandated by compliance requirements by PCI, HIPAA, and Sarbanes–Oxley This trend will still continue but not as much as it used to be.</description>
+    </item>
+    
+    <item>
+      <title>Career advice for aspiring ethical hackers, pentesters and application testers</title>
+      <link>https://www.connectthoughts.com/posts/careeradvice/</link>
+      <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
+      
+      <guid>https://www.connectthoughts.com/posts/careeradvice/</guid>
       <description>Career advice for aspiring ethical hackers, pentesters and application testers</description>
     </item>
     
