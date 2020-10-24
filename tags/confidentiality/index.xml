@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>confidentiality on Connecting Thoughts</title>
-    <link>https://connectthoughts.com/tags/confidentiality/</link>
+    <link>/tags/confidentiality/</link>
     <description>Recent content in confidentiality on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Aug 2015 23:53:00 +0100</lastBuildDate>
     
-	<atom:link href="https://connectthoughts.com/tags/confidentiality/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/confidentiality/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CRYPTOSYSTEM LIBRARY FOR WEB APPLICATIONS</title>
-      <link>https://connectthoughts.com/blog/cryptoweb/</link>
+      <link>/blog/cryptoweb/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/cryptoweb/</guid>
+      <guid>/blog/cryptoweb/</guid>
       <description>This document discusses the approach or methodology for the cryptosystem library that could be utilised by web applications, web services, REST based web service, file transfer for encryption and decryption. This proposed cryptosystem offers the following built-in features:
 · Authentication – Using this cryptosystem, the identity of the remote system or application can be established. For example, SSL certificate of a web server providing proof of the identity of the remote system.</description>
     </item>
     
     <item>
       <title>APPLICATION INTEGRATION TECHNIQUES</title>
-      <link>https://connectthoughts.com/blog/applicationintegration/</link>
+      <link>/blog/applicationintegration/</link>
       <pubDate>Fri, 17 Jul 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/applicationintegration/</guid>
+      <guid>/blog/applicationintegration/</guid>
       <description>This document discusses each of the application integration methods commonly used these days for B2B integrations. The concepts discussed below focuses on API security from the perspective of confidentiality, integrity, authentication and replay attacks.
 - Technology overview – This section provides the background, overview and advantages of each of the existing technology.
 - Confidentiality - Ensuring the confidentiality of access credentials, authentication credentials, and tokens used for authorization is highly important.</description>

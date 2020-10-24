@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud security on Connecting Thoughts</title>
-    <link>https://connectthoughts.com/tags/cloud-security/</link>
+    <link>/tags/cloud-security/</link>
     <description>Recent content in cloud security on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Oct 2020 23:53:00 +0100</lastBuildDate>
     
-	<atom:link href="https://connectthoughts.com/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to plan for cloud security in any organization?</title>
-      <link>https://connectthoughts.com/blog/cloudwhattodo/</link>
+      <link>/blog/cloudwhattodo/</link>
       <pubDate>Wed, 21 Oct 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/cloudwhattodo/</guid>
+      <guid>/blog/cloudwhattodo/</guid>
       <description>How to plan for cloud security in any organization? Due to various services and flexibility offered by cloud services, businesses were able to expand rapidly and increase revenue by providing innovative solution to customers. But there are some challenges such as disaster recovery, migrating data to another cloud, and security, which need to be addressed for better cloud compliance in business organizations. There are many security threats in the cloud, such as misconfiguration of cloud services, compliance violation, contractural breaches, and insecure application user API, which can affect the businesses.</description>
     </item>
     
     <item>
       <title>Cloud Security Threats</title>
-      <link>https://connectthoughts.com/blog/cloudsecuritythreats/</link>
+      <link>/blog/cloudsecuritythreats/</link>
       <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/cloudsecuritythreats/</guid>
+      <guid>/blog/cloudsecuritythreats/</guid>
       <description></description>
     </item>
     

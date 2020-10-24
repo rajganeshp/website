@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Connecting Thoughts</title>
-    <link>https://connectthoughts.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Oct 2020 23:53:00 +0100</lastBuildDate>
     
-	<atom:link href="https://connectthoughts.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cloud security</title>
-      <link>https://connectthoughts.com/tags/cloud-security/</link>
+      <link>/tags/cloud-security/</link>
       <pubDate>Wed, 21 Oct 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/cloud-security/</guid>
+      <guid>/tags/cloud-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://connectthoughts.com/tags/blog/</link>
+      <link>/tags/blog/</link>
       <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/blog/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>online presence</title>
-      <link>https://connectthoughts.com/tags/online-presence/</link>
+      <link>/tags/online-presence/</link>
       <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/online-presence/</guid>
+      <guid>/tags/online-presence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>https://connectthoughts.com/tags/writing/</link>
+      <link>/tags/writing/</link>
       <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/writing/</guid>
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>career advice</title>
-      <link>https://connectthoughts.com/tags/career-advice/</link>
+      <link>/tags/career-advice/</link>
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/career-advice/</guid>
+      <guid>/tags/career-advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pentest</title>
-      <link>https://connectthoughts.com/tags/pentest/</link>
+      <link>/tags/pentest/</link>
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/pentest/</guid>
+      <guid>/tags/pentest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redteam</title>
-      <link>https://connectthoughts.com/tags/redteam/</link>
+      <link>/tags/redteam/</link>
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/redteam/</guid>
+      <guid>/tags/redteam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application Integration</title>
-      <link>https://connectthoughts.com/tags/application-integration/</link>
+      <link>/tags/application-integration/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/application-integration/</guid>
+      <guid>/tags/application-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Authentication</title>
-      <link>https://connectthoughts.com/tags/authentication/</link>
+      <link>/tags/authentication/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/authentication/</guid>
+      <guid>/tags/authentication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>confidentiality</title>
-      <link>https://connectthoughts.com/tags/confidentiality/</link>
+      <link>/tags/confidentiality/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/confidentiality/</guid>
+      <guid>/tags/confidentiality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptography</title>
-      <link>https://connectthoughts.com/tags/cryptography/</link>
+      <link>/tags/cryptography/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/cryptography/</guid>
+      <guid>/tags/cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>integrity</title>
-      <link>https://connectthoughts.com/tags/integrity/</link>
+      <link>/tags/integrity/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/integrity/</guid>
+      <guid>/tags/integrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST</title>
-      <link>https://connectthoughts.com/tags/rest/</link>
+      <link>/tags/rest/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/rest/</guid>
+      <guid>/tags/rest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOAP</title>
-      <link>https://connectthoughts.com/tags/soap/</link>
+      <link>/tags/soap/</link>
       <pubDate>Fri, 17 Jul 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/soap/</guid>
+      <guid>/tags/soap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nessus</title>
-      <link>https://connectthoughts.com/tags/nessus/</link>
+      <link>/tags/nessus/</link>
       <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/nessus/</guid>
+      <guid>/tags/nessus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vulnerability</title>
-      <link>https://connectthoughts.com/tags/vulnerability/</link>
+      <link>/tags/vulnerability/</link>
       <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/vulnerability/</guid>
+      <guid>/tags/vulnerability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vulnerability management</title>
-      <link>https://connectthoughts.com/tags/vulnerability-management/</link>
+      <link>/tags/vulnerability-management/</link>
       <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/tags/vulnerability-management/</guid>
+      <guid>/tags/vulnerability-management/</guid>
       <description></description>
     </item>
     

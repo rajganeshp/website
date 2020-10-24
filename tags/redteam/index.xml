@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>redteam on Connecting Thoughts</title>
-    <link>https://connectthoughts.com/tags/redteam/</link>
+    <link>/tags/redteam/</link>
     <description>Recent content in redteam on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Sep 2020 23:53:00 +0100</lastBuildDate>
     
-	<atom:link href="https://connectthoughts.com/tags/redteam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/redteam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Career advice for aspiring ethical hackers, pentesters and application testers</title>
-      <link>https://connectthoughts.com/blog/careeradvice/</link>
+      <link>/blog/careeradvice/</link>
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/careeradvice/</guid>
+      <guid>/blog/careeradvice/</guid>
       <description>Coming from a pentesting background and having led many Red Team engagements for over 15 years, I’m noticing changing industry trends with respect to vulnerability, red teaming, and other technical assessments.
 Until recently, there was a huge demand for technical assessments as organizations were required to test and validate security issues by third-party vendors, as mandated by compliance requirements by PCI, HIPAA, and Sarbanes–Oxley This trend will still continue but not as much as it used to be.</description>
     </item>
     
     <item>
       <title>RedTeam</title>
-      <link>https://connectthoughts.com/blog/redteam/</link>
+      <link>/blog/redteam/</link>
       <pubDate>Fri, 17 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/redteam/</guid>
+      <guid>/blog/redteam/</guid>
       <description>Understanding Red Team Assessments Red Team Objectives The key objective of the exercise would be to simulate real threats designed to leverage weaknesses in people, process and technology to compromise the target environment. This would typically include the following areas:
  Intelligence gathering and reconnaissance Social engineering, including phishing techniques, use of safe malware infected IOT devices, and physical penetration testing Wireless and network penetration testing of internal and external systems Enterprise application assessments to determine whether weaknesses in applications may provide opportunities to gain unauthorized access to information and / or resources  The ongoing information security breaches at companies worldwide have shown that once perimeter defenses are breached, the company’s crown jewels can be obtained.</description>
     </item>

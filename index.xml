@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connecting Thoughts</title>
-    <link>https://connectthoughts.com/</link>
+    <link>/</link>
     <description>Recent content on Connecting Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Oct 2020 23:53:00 +0100</lastBuildDate>
     
-	<atom:link href="https://connectthoughts.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://connectthoughts.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 17 Jun 2019 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/about/</guid>
+      <guid>/about/</guid>
       <description>PROFILE
 I’m a capable Technical Director who can act as the glue that links together mission critical security requirements. Articulate and effective communicator who has a history of developing products that push the limits of technology. Able to respond to the ever changing demands of clients by creating innovative high quality and defect-free security solutions that precisely meet their business needs. Strong management and methodical aptitude with an innate ability in decision-making, coordinating and synthesizing data.</description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://connectthoughts.com/course/</link>
+      <link>/course/</link>
       <pubDate>Mon, 17 Jun 2019 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/course/</guid>
+      <guid>/course/</guid>
       <description>Active Directory Course This course shows how to create Active Directory lab in Hyper-V. Though the course is dated, the same principles can be applied to 2019/2016 servers. Download the manual at https://www.scribd.com/document/359316928/Active-Directory-Lab-HyperV-Manual
 Active Directory Lab using Hyper-V Virtualization Platform Training   Adding Hyper-V Role in Windows 10 - Host System   Setting up Virtual Switches in Hyper-V   Installing Windows 2012 Server   Installing Windows 10–64 bit version   Installing Windows 7   File Server Installation – Windows 2012   Installing Router/Firewall using PFSense Opensource Software   Configuring PFSense Router for networking   Promoting Windows 2012 Server to a Domain Controller   Setting Up Static IP in Domain Controller   Add DHCP Role to Domain Controller   Creating a scope in DHCP server to hand out IPs to clients   Joining Windows 7 to Domain   Joining Windows 10 to Domain   Adding FileServer to Domain   Exporting, Saving, and creating Checkpoints for all VMs   Protect you host computer using PFSense   GPO - Example 1: Set Wallpaper on all systems in the domain.</description>
     </item>
     
     <item>
       <title>How to plan for cloud security in any organization?</title>
-      <link>https://connectthoughts.com/blog/cloudwhattodo/</link>
+      <link>/blog/cloudwhattodo/</link>
       <pubDate>Wed, 21 Oct 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/cloudwhattodo/</guid>
+      <guid>/blog/cloudwhattodo/</guid>
       <description>How to plan for cloud security in any organization? Due to various services and flexibility offered by cloud services, businesses were able to expand rapidly and increase revenue by providing innovative solution to customers. But there are some challenges such as disaster recovery, migrating data to another cloud, and security, which need to be addressed for better cloud compliance in business organizations. There are many security threats in the cloud, such as misconfiguration of cloud services, compliance violation, contractural breaches, and insecure application user API, which can affect the businesses.</description>
     </item>
     
     <item>
       <title>Do you need online presence?</title>
-      <link>https://connectthoughts.com/blog/online/</link>
+      <link>/blog/online/</link>
       <pubDate>Wed, 23 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/online/</guid>
+      <guid>/blog/online/</guid>
       <description>Online presence is key, especially now, to showcase your skills and express your thoughts and ideas inS form of blogs or articles. Having your own personal website gives you credibility when someone is searching for your name. In this post, I’m going to discuss the benefits of writing on your own website. Writing is one of the easiest ways to get started, as you need only time with no expensive tools.</description>
     </item>
     
     <item>
       <title>Career advice for aspiring ethical hackers, pentesters and application testers</title>
-      <link>https://connectthoughts.com/blog/careeradvice/</link>
+      <link>/blog/careeradvice/</link>
       <pubDate>Sun, 20 Sep 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/careeradvice/</guid>
+      <guid>/blog/careeradvice/</guid>
       <description>Coming from a pentesting background and having led many Red Team engagements for over 15 years, I’m noticing changing industry trends with respect to vulnerability, red teaming, and other technical assessments.
 Until recently, there was a huge demand for technical assessments as organizations were required to test and validate security issues by third-party vendors, as mandated by compliance requirements by PCI, HIPAA, and Sarbanes–Oxley This trend will still continue but not as much as it used to be.</description>
     </item>
     
     <item>
       <title>Cloud Security Threats</title>
-      <link>https://connectthoughts.com/blog/cloudsecuritythreats/</link>
+      <link>/blog/cloudsecuritythreats/</link>
       <pubDate>Mon, 20 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/cloudsecuritythreats/</guid>
+      <guid>/blog/cloudsecuritythreats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Application Pentest Training</title>
-      <link>https://connectthoughts.com/blog/webpentest/</link>
+      <link>/blog/webpentest/</link>
       <pubDate>Sun, 19 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/webpentest/</guid>
+      <guid>/blog/webpentest/</guid>
       <description>Web Application Hacking - Training
 This project is not maintained or supported now, but it should still work with the ISO and instructions give below.
 Download the ISO.
@@ -86,10 +86,10 @@ https://www.dropbox.com/s/r46m0eh6fv3k4v8/Web%20Hacking.pdf?dl=0</description>
     
     <item>
       <title>Pentest Interview Preparation Sample Questions</title>
-      <link>https://connectthoughts.com/blog/pentest-interview/</link>
+      <link>/blog/pentest-interview/</link>
       <pubDate>Sat, 18 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/pentest-interview/</guid>
+      <guid>/blog/pentest-interview/</guid>
       <description>Questions below showcases fictional use cases. Please use you own experience and stories while preparing for an interview.
 Why you chose to get into Pen Testing
 As an individual, I like to constantly learn new things. With penetration testing, I have always liked the idea of playing a vital role in identifying potential breakpoints across the applications and infrastructure and explore new ways to secure the environment.
@@ -98,30 +98,30 @@ As the ecosystem is dynamic, and new technologies have been emerging, it helps m
     
     <item>
       <title>RedTeam</title>
-      <link>https://connectthoughts.com/blog/redteam/</link>
+      <link>/blog/redteam/</link>
       <pubDate>Fri, 17 Jul 2020 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/redteam/</guid>
+      <guid>/blog/redteam/</guid>
       <description>Understanding Red Team Assessments Red Team Objectives The key objective of the exercise would be to simulate real threats designed to leverage weaknesses in people, process and technology to compromise the target environment. This would typically include the following areas:
  Intelligence gathering and reconnaissance Social engineering, including phishing techniques, use of safe malware infected IOT devices, and physical penetration testing Wireless and network penetration testing of internal and external systems Enterprise application assessments to determine whether weaknesses in applications may provide opportunities to gain unauthorized access to information and / or resources  The ongoing information security breaches at companies worldwide have shown that once perimeter defenses are breached, the company’s crown jewels can be obtained.</description>
     </item>
     
     <item>
       <title>CRYPTOSYSTEM LIBRARY FOR WEB APPLICATIONS</title>
-      <link>https://connectthoughts.com/blog/cryptoweb/</link>
+      <link>/blog/cryptoweb/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/cryptoweb/</guid>
+      <guid>/blog/cryptoweb/</guid>
       <description>This document discusses the approach or methodology for the cryptosystem library that could be utilised by web applications, web services, REST based web service, file transfer for encryption and decryption. This proposed cryptosystem offers the following built-in features:
 · Authentication – Using this cryptosystem, the identity of the remote system or application can be established. For example, SSL certificate of a web server providing proof of the identity of the remote system.</description>
     </item>
     
     <item>
       <title>APPLICATION INTEGRATION TECHNIQUES</title>
-      <link>https://connectthoughts.com/blog/applicationintegration/</link>
+      <link>/blog/applicationintegration/</link>
       <pubDate>Fri, 17 Jul 2015 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/applicationintegration/</guid>
+      <guid>/blog/applicationintegration/</guid>
       <description>This document discusses each of the application integration methods commonly used these days for B2B integrations. The concepts discussed below focuses on API security from the perspective of confidentiality, integrity, authentication and replay attacks.
 - Technology overview – This section provides the background, overview and advantages of each of the existing technology.
 - Confidentiality - Ensuring the confidentiality of access credentials, authentication credentials, and tokens used for authorization is highly important.</description>
@@ -129,10 +129,10 @@ As the ecosystem is dynamic, and new technologies have been emerging, it helps m
     
     <item>
       <title>Vulnerability Database for common security issues</title>
-      <link>https://connectthoughts.com/blog/vulnerability/</link>
+      <link>/blog/vulnerability/</link>
       <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
       
-      <guid>https://connectthoughts.com/blog/vulnerability/</guid>
+      <guid>/blog/vulnerability/</guid>
       <description>Following are my notes on common security issues that were identified based vulnerability scanning or penetration testing
 OS Command Injection Description: An OS command injection attack occurs when an attacker attempts to execute system level commands through a vulnerable application. Application uses system level commands to do some functionality. In this, web interface is used to execute OS command on a web server. Any web interface that is not properly sanitized is subject to this exploit.</description>
     </item>
