@@ -75,33 +75,6 @@
     </item>
     
     <item>
-      <title>Application Integration</title>
-      <link>/tags/application-integration/</link>
-      <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
-      
-      <guid>/tags/application-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authentication</title>
-      <link>/tags/authentication/</link>
-      <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
-      
-      <guid>/tags/authentication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>confidentiality</title>
-      <link>/tags/confidentiality/</link>
-      <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
-      
-      <guid>/tags/confidentiality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cryptography</title>
       <link>/tags/cryptography/</link>
       <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
@@ -111,38 +84,11 @@
     </item>
     
     <item>
-      <title>integrity</title>
-      <link>/tags/integrity/</link>
-      <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
-      
-      <guid>/tags/integrity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST</title>
-      <link>/tags/rest/</link>
-      <pubDate>Mon, 17 Aug 2015 23:53:00 +0100</pubDate>
-      
-      <guid>/tags/rest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SOAP</title>
-      <link>/tags/soap/</link>
+      <title>Application Integration</title>
+      <link>/tags/application-integration/</link>
       <pubDate>Fri, 17 Jul 2015 23:53:00 +0100</pubDate>
       
-      <guid>/tags/soap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nessus</title>
-      <link>/tags/nessus/</link>
-      <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
-      
-      <guid>/tags/nessus/</guid>
+      <guid>/tags/application-integration/</guid>
       <description></description>
     </item>
     
@@ -152,15 +98,6 @@
       <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
       
       <guid>/tags/vulnerability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vulnerability management</title>
-      <link>/tags/vulnerability-management/</link>
-      <pubDate>Wed, 17 Jul 2013 23:53:00 +0100</pubDate>
-      
-      <guid>/tags/vulnerability-management/</guid>
       <description></description>
     </item>
     

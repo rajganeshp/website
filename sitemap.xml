@@ -98,21 +98,6 @@
   </url>
   
   <url>
-    <loc>/tags/application-integration/</loc>
-    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/authentication/</loc>
-    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/confidentiality/</loc>
-    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/cryptography/</loc>
     <lastmod>2015-08-17T23:53:00+01:00</lastmod>
   </url>
@@ -123,28 +108,13 @@
   </url>
   
   <url>
-    <loc>/tags/integrity/</loc>
-    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rest/</loc>
-    <lastmod>2015-08-17T23:53:00+01:00</lastmod>
+    <loc>/tags/application-integration/</loc>
+    <lastmod>2015-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/applicationintegration/</loc>
     <lastmod>2015-07-17T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/soap/</loc>
-    <lastmod>2015-07-17T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nessus/</loc>
-    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
   </url>
   
   <url>
@@ -154,11 +124,6 @@
   
   <url>
     <loc>/blog/vulnerability/</loc>
-    <lastmod>2013-07-17T23:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vulnerability-management/</loc>
     <lastmod>2013-07-17T23:53:00+01:00</lastmod>
   </url>
   
